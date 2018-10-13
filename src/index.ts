@@ -5,5 +5,3 @@ function helloStr() {
 
 console.log(helloStr());
 
-hoge(); // Call undefined function
-
